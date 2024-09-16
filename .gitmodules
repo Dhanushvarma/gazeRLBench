@@ -1,0 +1,6 @@
+[submodule "gazeRLBench/libs/YARR"]
+	path = gazeRLBench/libs/YARR
+	url = https://github.com/Dhanushvarma/YARR.git
+[submodule "gazeRLBench/libs/RLBench"]
+	path = gazeRLBench/libs/RLBench
+	url = https://github.com/Dhanushvarma/RLBench.git
